@@ -1,5 +1,5 @@
 # Gruvbox Dark theme for Blockbench
-[https://drive.google.com/uc?export=view&id=1IQAlKPCki5PSFtfdL4eM_kkW_VUV9R4b](Settings Page)
+![Settings page](https://drive.google.com/uc?export=view&id=1IQAlKPCki5PSFtfdL4eM_kkW_VUV9R4b)
 
 ## Instructions to install
 1. Clone this repository or download `blockbench-gruvbox-dark.bbtheme` file to
