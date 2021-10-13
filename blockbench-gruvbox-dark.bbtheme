@@ -1,0 +1,24 @@
+{
+	"main_font": "monospace",
+	"headline_font": "monospace",
+	"code_font": "monospace",
+	"css": "",
+	"colors": {
+		"ui": "#504945",
+		"back": "#3c3836",
+		"dark": "#282828",
+		"border": "#181a1f",
+		"selected": "#7c6f64",
+		"button": "#665c54",
+		"bright_ui": "#504945",
+		"accent": "#7c6f64",
+		"frame": "#282828",
+		"text": "#d5c4a1",
+		"light": "#ebdbb2",
+		"accent_text": "#ebdbb2",
+		"subtle_text": "#a89984",
+		"grid": "#928374",
+		"wireframe": "#a89984",
+		"checkerboard": "#282828"
+	}
+}
